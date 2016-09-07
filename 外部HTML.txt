@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html class="" lang="en"><head>
     <meta charset="UTF-8">
-    <title>ç®€å†ç”Ÿæˆå™¨</title>
+    <title>¼òÀúÉú³ÉÆ÷</title>
     <link rel="stylesheet" href="static/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal-default-theme.min.css">
@@ -17,37 +16,37 @@
                 <div style="background-image: url(&quot;http://oacs2o38t.bkt.clouddn.com/%E7%AE%80%E5%8E%86%E5%A4%B4%E5%83%8F.jpg&quot;);" class="portrait"></div>
                 
                 <h1 id="username" contenteditable="true">rwong<br></h1>
-                <h4 id="persona-tag" contenteditable="true">Java/ C++ / Web / äº’è”ç½‘</h4>
+                <h4 id="persona-tag" contenteditable="true">Java/ C++ Web / »¥ÁªÍø</h4>
             </div>
             <div class="profile info-unit">
-                <h2 class="info-header"><i class="iconfont icon-person"></i> <span class="info-title" contenteditable="true">åŸºæœ¬ä¿¡æ¯</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-person"></i> <span class="info-title" contenteditable="true">»ù±¾ĞÅÏ¢</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="info-list">
                     <li>
-                        <label class="left-label" contenteditable="true">å§“å</label><span class="label-value" contenteditable="true">è¾°å¿ </span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">ĞÕÃû</label><span class="label-value" contenteditable="true">³½ÖÒ</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <label class="left-label" contenteditable="true">å­¦å†</label><span class="label-value" contenteditable="true">ç¡•å£«</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">Ñ§Àú</label><span class="label-value" contenteditable="true">Ë¶Ê¿</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <label class="left-label" contenteditable="true">æ¯•ä¸šé™¢æ ¡</label><span class="label-value" contenteditable="true">æš¨å—å¤§å­¦</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">±ÏÒµÔºĞ£</label><span class="label-value" contenteditable="true">ôßÄÏ´óÑ§</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <label class="left-label" contenteditable="true">æ¯•ä¸šå¹´ä»½</label><span class="label-value" contenteditable="true">2017</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">±ÏÒµÄê·İ</label><span class="label-value" contenteditable="true">2017</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                 </ul>
             </div>
             <div class="contact info-unit">
-                <h2 class="info-header"><i class="iconfont icon-call"></i> <span class="info-title" contenteditable="true">è”ç³»æ–¹å¼</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-call"></i> <span class="info-title" contenteditable="true">ÁªÏµ·½Ê½</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="info-list">
                     <li>
-                        <label class="left-label" contenteditable="true">æ‰‹æœº</label><span class="label-value" contenteditable="true">155XXXXXXXX</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">ÊÖ»ú</label><span class="label-value" contenteditable="true">155XXXXXXXX</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     
                     
                     <li>
                         <label class="left-label" contenteditable="true">Github</label><span class="label-value" contenteditable="true">github.com/rwong</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                 <li>
-                        <label class="left-label" contenteditable="true">é‚®ç®±</label><span class="label-value" contenteditable="true">992674919@qq.com</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li></ul>
+                        <label class="left-label" contenteditable="true">ÓÊÏä</label><span class="label-value" contenteditable="true">992674919@qq.com</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li></ul>
             </div>
             <div class="skill info-unit">
-                <h2 class="info-header"><i class="iconfont icon-star"></i> <span class="info-title" contenteditable="true">æŠ€èƒ½ç‚¹</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-star"></i> <span class="info-title" contenteditable="true">¼¼ÄÜµã</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="progress-list">
                     <li>
@@ -69,23 +68,23 @@
                 </ul>
             </div>
             <div class="stack info-unit">
-                <h2 class="info-header"><i class="iconfont icon-build"></i> <span class="info-title" contenteditable="true">æŠ€æœ¯æ ˆ</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-build"></i> <span class="info-title" contenteditable="true">¼¼ÊõÕ»</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="stack-list">
                     <li>
-                        <label class="left-label" contenteditable="true">å‰ç«¯</label><span class="label-value" contenteditable="true">jQueryã€Angular.jsã€React.js</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">Ç°¶Ë</label><span class="label-value" contenteditable="true">jQuery¡¢Angular.js¡¢React.js</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     
                     <li>
-                        <label class="left-label" contenteditable="true">åç«¯</label><span class="label-value" contenteditable="true">Flaskã€Djangoã€Twistedã€Node.jsã€MongoDBã€MySQLã€Redis</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">ºó¶Ë</label><span class="label-value" contenteditable="true">Flask¡¢Django¡¢Twisted¡¢Node.js¡¢MongoDB¡¢MySQL¡¢Redis</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     
                     <li>
-                        <label class="left-label" contenteditable="true">å…¶å®ƒ</label><span class="label-value" contenteditable="true">æˆ‘å…¨éƒ½æ˜¯çå†™çš„ã€‚</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
+                        <label class="left-label" contenteditable="true">ÆäËü</label><span class="label-value" contenteditable="true">ÎÒÈ«¶¼ÊÇÏ¹Ğ´µÄ¡£</span><span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     
                 </ul>
             </div>
 
             <div class="code info-unit">
-                <h2 class="info-header"><i class="iconfont icon-weixin"></i> <span class="info-title" contenteditable="true">ä¸ªäººå¾®ä¿¡</span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-weixin"></i> <span class="info-title" contenteditable="true">¸öÈËÎ¢ĞÅ</span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <div class="weixin">
                     <img src="http://oacs2o38t.bkt.clouddn.com/%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="">
@@ -96,11 +95,11 @@
         </div>
         <div class="main">
             <div class="education info-unit right-list">
-                <h2 class="info-header"><i class="iconfont icon-education"></i> <span class="info-title" contenteditable="true">æ•™è‚²ç»å†</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-education"></i> <span class="info-title" contenteditable="true">½ÌÓı¾­Àú</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="experience-list">
                     <li>
-                        <h3 contenteditable="true">æš¨å—å¤§å­¦ - å…‰é€šä¿¡ä¸å…‰ä¼ æ„Ÿï¼ˆç¡•å£«ï¼‰2014-2017</h3>
+                        <h3 contenteditable="true">ôßÄÏ´óÑ§ - ¹âÍ¨ĞÅÓë¹â´«¸Ğ£¨Ë¶Ê¿£©2014-2017</h3>
                         <p contenteditable="true">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                         </p>
@@ -108,46 +107,46 @@
                 </ul>
             </div>
             <div class="work info-unit right-list">
-                <h2 class="info-header"><i class="iconfont icon-work"></i> <span class="info-title" contenteditable="true">å·¥ä½œç»å†</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-work"></i> <span class="info-title" contenteditable="true">¹¤×÷¾­Àú</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="experience-list">
                     <li>
-                        <h3 contenteditable="true">åŒ—äº¬åˆ›å®¢ç©ºé—´ï¼å®ä¹ ç”Ÿï¼ˆå®ä¹ ï¼‰</h3>
+                        <h3 contenteditable="true">±±¾©´´¿Í¿Õ¼ä£­ÊµÏ°Éú£¨ÊµÏ°£©</h3>
                         <p contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <h3 contenteditable="true">å®éªŒæ¥¼ï¼è¯¾ç¨‹å†…å®¹ï¼ˆå®ä¹ ï¼‰</h3>
+                        <h3 contenteditable="true">ÊµÑéÂ¥£­¿Î³ÌÄÚÈİ£¨ÊµÏ°£©</h3>
                         <p contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                 </ul>
             </div>
             <div class="project info-unit right-list">
-                <h2 class="info-header"><i class="iconfont icon-project"></i> <span class="info-title" contenteditable="true">ä¸ªäººé¡¹ç›®</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-project"></i> <span class="info-title" contenteditable="true">¸öÈËÏîÄ¿</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="experience-list">
                     <li>
-                        <h3 contenteditable="true">åŸºäº Qt 5 çš„æ–‡æœ¬ç¼–è¾‘å™¨</h3>
+                        <h3 contenteditable="true">»ùÓÚ Qt 5 µÄÎÄ±¾±à¼­Æ÷</h3>
                         <p contenteditable="true">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamã€‚Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam¡£Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                             <br>
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <h3 contenteditable="true">åŸºäº Flask çš„ä¸»æœºç›‘è§†ç³»ç»Ÿ</h3>
+                        <h3 contenteditable="true">»ùÓÚ Flask µÄÖ÷»ú¼àÊÓÏµÍ³</h3>
                         <p contenteditable="true">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <h3 contenteditable="true">åŸºäº Live2D ä¸ clmtrackr çš„å±±å¯¨ Facerig</h3>
+                        <h3 contenteditable="true">»ùÓÚ Live2D Óë clmtrackr µÄÉ½Õ¯ Facerig</h3>
                         <p contenteditable="true">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>
                     <li>
-                        <h3 contenteditable="true">å¦‚æœé¡¹ç›®å¤ªå°‘ï¼Œå¯ä»¥åœ¨å®éªŒæ¥¼ä¸Šæ‰¾é¡¹ç›®åšå•Š:D</h3>
+                        <h3 contenteditable="true">Èç¹ûÏîÄ¿Ì«ÉÙ£¬¿ÉÒÔÔÚÊµÑéÂ¥ÉÏÕÒÏîÄ¿×ö°¡:D</h3>
                         <p contenteditable="true">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
@@ -155,30 +154,30 @@
                 </ul>
             </div>
             <div class="trophy info-unit">
-                <h2 class="info-header"><i class="iconfont icon-trophy"></i> <span class="info-title" contenteditable="true">å¥–é¡¹ä¸è¯ä¹¦</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-trophy"></i> <span class="info-title" contenteditable="true">½±ÏîÓëÖ¤Êé</span><span style="visibility: hidden;" class="item-add"><i class="iconfont icon-playlistadd"></i></span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <ul class="experience-list">
                     <li>
-                        <h3 contenteditable="true">å°å­¦ç”Ÿä½œæ–‡äºŒç­‰å¥–</h3>
+                        <h3 contenteditable="true">Ğ¡Ñ§Éú×÷ÎÄ¶şµÈ½±</h3>
                         <p contenteditable="true">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamã€‚
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam¡£
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li> 
                     <li>
-                        <h3 contenteditable="true">æ›¾è·ç»Ÿä¸€å†°çº¢èŒ¶â€œå†æ¥ä¸€ç“¶â€å¥–</h3>
+                        <h3 contenteditable="true">Ôø»ñÍ³Ò»±ùºì²è¡°ÔÙÀ´Ò»Æ¿¡±½±</h3>
                         <p contenteditable="true">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamã€‚
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam¡£
                         </p>
                     <span class="item-remove"><i class="iconfont icon-delete"></i></span></li> 
                     <li>
-                        <h3 contenteditable="true">è¿™ä¸€è¡Œä¹Ÿæ˜¯ä¸ºäº†å‡‘ç‰ˆé¢</h3>
+                        <h3 contenteditable="true">ÕâÒ»ĞĞÒ²ÊÇÎªÁË´Õ°æÃæ</h3>
                         <p contenteditable="true">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamã€‚
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam¡£
                         </p>
                     <span style="visibility: hidden;" class="item-remove"><i class="iconfont icon-delete"></i></span></li>                     
             </ul></div>
             <div class="aboutme info-unit right-paragraph">
-                <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title" contenteditable="true">è‡ªæˆ‘è¯„ä»·</span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
+                <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title" contenteditable="true">×ÔÎÒÆÀ¼Û</span><span style="visibility: hidden;" class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
                 <hr>
                 <p contenteditable="true">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -190,13 +189,13 @@
 
 
 <div style="display: none;" class="remodal-overlay remodal-is-closed"></div><div style="display: none;" class="remodal-wrapper remodal-is-closed"><div tabindex="-1" class="remodal remodal-img remodal-is-initialized remodal-is-closed" data-remodal-id="portrait-modal">
-                    <h3 contenteditable="true">è¯·è¾“å…¥å›¾ç‰‡URLåœ°å€ï¼š</h3>
+                    <h3 contenteditable="true">ÇëÊäÈëÍ¼Æ¬URLµØÖ·£º</h3>
                     <br>
                     <input id="avatar-url" type="text">
-                    <button data-remodal-action="confirm" class="remodal-confirm">ç¡®å®š</button>
+                    <button data-remodal-action="confirm" class="remodal-confirm">È·¶¨</button>
                 </div></div><div style="display: none;" class="remodal-wrapper remodal-is-closed"><div tabindex="-1" class="remodal remodal-img remodal-is-initialized remodal-is-closed" data-remodal-id="weixin-modal">
-                <h3 contenteditable="true">è¯·è¾“å…¥å›¾ç‰‡URLåœ°å€ï¼š</h3>
+                <h3 contenteditable="true">ÇëÊäÈëÍ¼Æ¬URLµØÖ·£º</h3>
                 <br>
                 <input id="weixin-url" type="text">
-                <button data-remodal-action="confirm" class="remodal-confirm">ç¡®å®š</button>
+                <button data-remodal-action="confirm" class="remodal-confirm">È·¶¨</button>
             </div></div></body></html>
